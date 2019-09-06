@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[46],{
 
-/***/ "./resources/js/coreui/views/Theme/Colors/Colors.js":
-/*!**********************************************************!*\
-  !*** ./resources/js/coreui/views/Theme/Colors/Colors.js ***!
-  \**********************************************************/
+/***/ "./resources/js/admin/views/Theme/Colors/Colors.js":
+/*!*********************************************************!*\
+  !*** ./resources/js/admin/views/Theme/Colors/Colors.js ***!
+  \*********************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

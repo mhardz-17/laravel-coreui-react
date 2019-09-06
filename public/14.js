@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[14],{
 
-/***/ "./resources/js/coreui/views/Base/Breadcrumbs/Breadcrumbs.js":
-/*!*******************************************************************!*\
-  !*** ./resources/js/coreui/views/Base/Breadcrumbs/Breadcrumbs.js ***!
-  \*******************************************************************/
+/***/ "./resources/js/admin/views/Base/Breadcrumbs/Breadcrumbs.js":
+/*!******************************************************************!*\
+  !*** ./resources/js/admin/views/Base/Breadcrumbs/Breadcrumbs.js ***!
+  \******************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[21],{
 
-/***/ "./resources/js/coreui/views/Base/ListGroups/ListGroups.js":
-/*!*****************************************************************!*\
-  !*** ./resources/js/coreui/views/Base/ListGroups/ListGroups.js ***!
-  \*****************************************************************/
+/***/ "./resources/js/admin/views/Base/ListGroups/ListGroups.js":
+/*!****************************************************************!*\
+  !*** ./resources/js/admin/views/Base/ListGroups/ListGroups.js ***!
+  \****************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[9],{
 
-/***/ "./resources/js/coreui/assets/img/brand/logo.svg":
-/*!*******************************************************!*\
-  !*** ./resources/js/coreui/assets/img/brand/logo.svg ***!
-  \*******************************************************/
+/***/ "./resources/js/admin/assets/img/brand/logo.svg":
+/*!******************************************************!*\
+  !*** ./resources/js/admin/assets/img/brand/logo.svg ***!
+  \******************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -11,10 +11,10 @@ module.exports = "/images/logo.svg?537211e7dfab145efb2185260aded04d";
 
 /***/ }),
 
-/***/ "./resources/js/coreui/assets/img/brand/sygnet.svg":
-/*!*********************************************************!*\
-  !*** ./resources/js/coreui/assets/img/brand/sygnet.svg ***!
-  \*********************************************************/
+/***/ "./resources/js/admin/assets/img/brand/sygnet.svg":
+/*!********************************************************!*\
+  !*** ./resources/js/admin/assets/img/brand/sygnet.svg ***!
+  \********************************************************/
 /*! no static exports found */
 /***/ (function(module, exports) {
 
@@ -22,10 +22,10 @@ module.exports = "/images/sygnet.svg?c8d5c2d9c0e8849271af0664df052817";
 
 /***/ }),
 
-/***/ "./resources/js/coreui/containers/DefaultLayout/DefaultHeader.js":
-/*!***********************************************************************!*\
-  !*** ./resources/js/coreui/containers/DefaultLayout/DefaultHeader.js ***!
-  \***********************************************************************/
+/***/ "./resources/js/admin/containers/DefaultLayout/DefaultHeader.js":
+/*!**********************************************************************!*\
+  !*** ./resources/js/admin/containers/DefaultLayout/DefaultHeader.js ***!
+  \**********************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -38,9 +38,9 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! prop-types */ "./node_modules/prop-types/index.js");
 /* harmony import */ var prop_types__WEBPACK_IMPORTED_MODULE_3___default = /*#__PURE__*/__webpack_require__.n(prop_types__WEBPACK_IMPORTED_MODULE_3__);
 /* harmony import */ var _coreui_react__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @coreui/react */ "./node_modules/@coreui/react/es/index.js");
-/* harmony import */ var _assets_img_brand_logo_svg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../assets/img/brand/logo.svg */ "./resources/js/coreui/assets/img/brand/logo.svg");
+/* harmony import */ var _assets_img_brand_logo_svg__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ../../assets/img/brand/logo.svg */ "./resources/js/admin/assets/img/brand/logo.svg");
 /* harmony import */ var _assets_img_brand_logo_svg__WEBPACK_IMPORTED_MODULE_5___default = /*#__PURE__*/__webpack_require__.n(_assets_img_brand_logo_svg__WEBPACK_IMPORTED_MODULE_5__);
-/* harmony import */ var _assets_img_brand_sygnet_svg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../assets/img/brand/sygnet.svg */ "./resources/js/coreui/assets/img/brand/sygnet.svg");
+/* harmony import */ var _assets_img_brand_sygnet_svg__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! ../../assets/img/brand/sygnet.svg */ "./resources/js/admin/assets/img/brand/sygnet.svg");
 /* harmony import */ var _assets_img_brand_sygnet_svg__WEBPACK_IMPORTED_MODULE_6___default = /*#__PURE__*/__webpack_require__.n(_assets_img_brand_sygnet_svg__WEBPACK_IMPORTED_MODULE_6__);
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 

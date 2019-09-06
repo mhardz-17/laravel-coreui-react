@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[42],{
 
-/***/ "./resources/js/coreui/views/Pages/Login/Login.js":
-/*!********************************************************!*\
-  !*** ./resources/js/coreui/views/Pages/Login/Login.js ***!
-  \********************************************************/
+/***/ "./resources/js/admin/views/Pages/Login/Login.js":
+/*!*******************************************************!*\
+  !*** ./resources/js/admin/views/Pages/Login/Login.js ***!
+  \*******************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

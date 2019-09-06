@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[19],{
 
-/***/ "./resources/js/coreui/views/Base/Forms/Forms.js":
-/*!*******************************************************!*\
-  !*** ./resources/js/coreui/views/Base/Forms/Forms.js ***!
-  \*******************************************************/
+/***/ "./resources/js/admin/views/Base/Forms/Forms.js":
+/*!******************************************************!*\
+  !*** ./resources/js/admin/views/Base/Forms/Forms.js ***!
+  \******************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[16],{
 
-/***/ "./resources/js/coreui/views/Base/Carousels/Carousels.js":
-/*!***************************************************************!*\
-  !*** ./resources/js/coreui/views/Base/Carousels/Carousels.js ***!
-  \***************************************************************/
+/***/ "./resources/js/admin/views/Base/Carousels/Carousels.js":
+/*!**************************************************************!*\
+  !*** ./resources/js/admin/views/Base/Carousels/Carousels.js ***!
+  \**************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

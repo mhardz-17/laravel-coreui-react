@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[36],{
 
-/***/ "./resources/js/coreui/views/Icons/Flags/Flags.js":
-/*!********************************************************!*\
-  !*** ./resources/js/coreui/views/Icons/Flags/Flags.js ***!
-  \********************************************************/
+/***/ "./resources/js/admin/views/Icons/Flags/Flags.js":
+/*!*******************************************************!*\
+  !*** ./resources/js/admin/views/Icons/Flags/Flags.js ***!
+  \*******************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[30],{
 
-/***/ "./resources/js/coreui/views/Base/Tooltips/Tooltips.js":
-/*!*************************************************************!*\
-  !*** ./resources/js/coreui/views/Base/Tooltips/Tooltips.js ***!
-  \*************************************************************/
+/***/ "./resources/js/admin/views/Base/Tooltips/Tooltips.js":
+/*!************************************************************!*\
+  !*** ./resources/js/admin/views/Base/Tooltips/Tooltips.js ***!
+  \************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[38],{
 
-/***/ "./resources/js/coreui/views/Icons/SimpleLineIcons/SimpleLineIcons.js":
-/*!****************************************************************************!*\
-  !*** ./resources/js/coreui/views/Icons/SimpleLineIcons/SimpleLineIcons.js ***!
-  \****************************************************************************/
+/***/ "./resources/js/admin/views/Icons/SimpleLineIcons/SimpleLineIcons.js":
+/*!***************************************************************************!*\
+  !*** ./resources/js/admin/views/Icons/SimpleLineIcons/SimpleLineIcons.js ***!
+  \***************************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

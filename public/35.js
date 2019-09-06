@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[35],{
 
-/***/ "./resources/js/coreui/views/Icons/CoreUIIcons/CoreUIIcons.js":
-/*!********************************************************************!*\
-  !*** ./resources/js/coreui/views/Icons/CoreUIIcons/CoreUIIcons.js ***!
-  \********************************************************************/
+/***/ "./resources/js/admin/views/Icons/CoreUIIcons/CoreUIIcons.js":
+/*!*******************************************************************!*\
+  !*** ./resources/js/admin/views/Icons/CoreUIIcons/CoreUIIcons.js ***!
+  \*******************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

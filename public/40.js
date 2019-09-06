@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[40],{
 
-/***/ "./resources/js/coreui/views/Notifications/Badges/Badges.js":
-/*!******************************************************************!*\
-  !*** ./resources/js/coreui/views/Notifications/Badges/Badges.js ***!
-  \******************************************************************/
+/***/ "./resources/js/admin/views/Notifications/Badges/Badges.js":
+/*!*****************************************************************!*\
+  !*** ./resources/js/admin/views/Notifications/Badges/Badges.js ***!
+  \*****************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

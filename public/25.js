@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[25],{
 
-/***/ "./resources/js/coreui/views/Base/Popovers/Popovers.js":
-/*!*************************************************************!*\
-  !*** ./resources/js/coreui/views/Base/Popovers/Popovers.js ***!
-  \*************************************************************/
+/***/ "./resources/js/admin/views/Base/Popovers/Popovers.js":
+/*!************************************************************!*\
+  !*** ./resources/js/admin/views/Base/Popovers/Popovers.js ***!
+  \************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

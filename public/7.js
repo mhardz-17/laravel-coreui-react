@@ -447,10 +447,10 @@ webpackContext.id = "./node_modules/moment/locale sync recursive ^\\.\\/.*$";
 
 /***/ }),
 
-/***/ "./resources/js/coreui/views/Dashboard/Dashboard.js":
-/*!**********************************************************!*\
-  !*** ./resources/js/coreui/views/Dashboard/Dashboard.js ***!
-  \**********************************************************/
+/***/ "./resources/js/admin/views/Dashboard/Dashboard.js":
+/*!*********************************************************!*\
+  !*** ./resources/js/admin/views/Dashboard/Dashboard.js ***!
+  \*********************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -490,7 +490,7 @@ function _defineProperty(obj, key, value) { if (key in obj) { Object.definePrope
 
 
 var Widget03 = Object(react__WEBPACK_IMPORTED_MODULE_0__["lazy"])(function () {
-  return __webpack_require__.e(/*! import() */ 2).then(__webpack_require__.bind(null, /*! ../../views/Widgets/Widget03 */ "./resources/js/coreui/views/Widgets/Widget03.js"));
+  return __webpack_require__.e(/*! import() */ 2).then(__webpack_require__.bind(null, /*! ../../views/Widgets/Widget03 */ "./resources/js/admin/views/Widgets/Widget03.js"));
 });
 var brandPrimary = Object(_coreui_coreui_dist_js_coreui_utilities__WEBPACK_IMPORTED_MODULE_4__["getStyle"])('--primary');
 var brandSuccess = Object(_coreui_coreui_dist_js_coreui_utilities__WEBPACK_IMPORTED_MODULE_4__["getStyle"])('--success');

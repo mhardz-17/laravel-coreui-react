@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[26],{
 
-/***/ "./resources/js/coreui/views/Base/ProgressBar/ProgressBar.js":
-/*!*******************************************************************!*\
-  !*** ./resources/js/coreui/views/Base/ProgressBar/ProgressBar.js ***!
-  \*******************************************************************/
+/***/ "./resources/js/admin/views/Base/ProgressBar/ProgressBar.js":
+/*!******************************************************************!*\
+  !*** ./resources/js/admin/views/Base/ProgressBar/ProgressBar.js ***!
+  \******************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

@@ -316,10 +316,10 @@ exports.focusableElements = focusableElements;
 
 /***/ }),
 
-/***/ "./resources/js/coreui/views/Widgets/Widget03.js":
-/*!*******************************************************!*\
-  !*** ./resources/js/coreui/views/Widgets/Widget03.js ***!
-  \*******************************************************/
+/***/ "./resources/js/admin/views/Widgets/Widget03.js":
+/*!******************************************************!*\
+  !*** ./resources/js/admin/views/Widgets/Widget03.js ***!
+  \******************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

@@ -24,17 +24,17 @@
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-118965717-3"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      // Shared ID
-      gtag('config', 'UA-118965717-3');
-      // React.js ID
-      gtag('config', 'UA-118965717-6');
+    {{--<script async src="https://www.googletagmanager.com/gtag/js?id=UA-118965717-3"></script>--}}
+    {{--<script>--}}
+      {{--window.dataLayer = window.dataLayer || [];--}}
+      {{--function gtag(){dataLayer.push(arguments);}--}}
+      {{--gtag('js', new Date());--}}
+      {{--// Shared ID--}}
+      {{--gtag('config', 'UA-118965717-3');--}}
+      {{--// React.js ID--}}
+      {{--gtag('config', 'UA-118965717-6');--}}
 
-      </script>
+      {{--</script>--}}
       <script src="{{ mix('/coreui/js/app.js') }}" defer ></script>
 
     <!-- Fonts -->

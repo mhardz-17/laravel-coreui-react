@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[13],{
 
-/***/ "./resources/js/coreui/containers/DefaultLayout/DefaultFooter.js":
-/*!***********************************************************************!*\
-  !*** ./resources/js/coreui/containers/DefaultLayout/DefaultFooter.js ***!
-  \***********************************************************************/
+/***/ "./resources/js/admin/containers/DefaultLayout/DefaultFooter.js":
+/*!**********************************************************************!*\
+  !*** ./resources/js/admin/containers/DefaultLayout/DefaultFooter.js ***!
+  \**********************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

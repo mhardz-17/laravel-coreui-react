@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[12],{
 
-/***/ "./resources/js/coreui/containers/DefaultLayout/DefaultAside.js":
-/*!**********************************************************************!*\
-  !*** ./resources/js/coreui/containers/DefaultLayout/DefaultAside.js ***!
-  \**********************************************************************/
+/***/ "./resources/js/admin/containers/DefaultLayout/DefaultAside.js":
+/*!*********************************************************************!*\
+  !*** ./resources/js/admin/containers/DefaultLayout/DefaultAside.js ***!
+  \*********************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

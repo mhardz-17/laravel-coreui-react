@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[37],{
 
-/***/ "./resources/js/coreui/views/Icons/FontAwesome/FontAwesome.js":
-/*!********************************************************************!*\
-  !*** ./resources/js/coreui/views/Icons/FontAwesome/FontAwesome.js ***!
-  \********************************************************************/
+/***/ "./resources/js/admin/views/Icons/FontAwesome/FontAwesome.js":
+/*!*******************************************************************!*\
+  !*** ./resources/js/admin/views/Icons/FontAwesome/FontAwesome.js ***!
+  \*******************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

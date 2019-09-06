@@ -286,10 +286,10 @@ webpackContext.id = "./node_modules/moment/locale sync recursive ^\\.\\/.*$";
 
 /***/ }),
 
-/***/ "./resources/js/coreui/views/Widgets/Widget01.js":
-/*!*******************************************************!*\
-  !*** ./resources/js/coreui/views/Widgets/Widget01.js ***!
-  \*******************************************************/
+/***/ "./resources/js/admin/views/Widgets/Widget01.js":
+/*!******************************************************!*\
+  !*** ./resources/js/admin/views/Widgets/Widget01.js ***!
+  \******************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -422,10 +422,10 @@ Widget01.defaultProps = defaultProps;
 
 /***/ }),
 
-/***/ "./resources/js/coreui/views/Widgets/Widget02.js":
-/*!*******************************************************!*\
-  !*** ./resources/js/coreui/views/Widgets/Widget02.js ***!
-  \*******************************************************/
+/***/ "./resources/js/admin/views/Widgets/Widget02.js":
+/*!******************************************************!*\
+  !*** ./resources/js/admin/views/Widgets/Widget02.js ***!
+  \******************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -584,10 +584,10 @@ Widget02.defaultProps = defaultProps;
 
 /***/ }),
 
-/***/ "./resources/js/coreui/views/Widgets/Widget04.js":
-/*!*******************************************************!*\
-  !*** ./resources/js/coreui/views/Widgets/Widget04.js ***!
-  \*******************************************************/
+/***/ "./resources/js/admin/views/Widgets/Widget04.js":
+/*!******************************************************!*\
+  !*** ./resources/js/admin/views/Widgets/Widget04.js ***!
+  \******************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -723,10 +723,10 @@ Widget04.defaultProps = defaultProps;
 
 /***/ }),
 
-/***/ "./resources/js/coreui/views/Widgets/Widgets.js":
-/*!******************************************************!*\
-  !*** ./resources/js/coreui/views/Widgets/Widgets.js ***!
-  \******************************************************/
+/***/ "./resources/js/admin/views/Widgets/Widgets.js":
+/*!*****************************************************!*\
+  !*** ./resources/js/admin/views/Widgets/Widgets.js ***!
+  \*****************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 
@@ -735,10 +735,10 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var reactstrap__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! reactstrap */ "./node_modules/reactstrap/es/index.js");
-/* harmony import */ var _Widget01__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Widget01 */ "./resources/js/coreui/views/Widgets/Widget01.js");
-/* harmony import */ var _Widget02__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Widget02 */ "./resources/js/coreui/views/Widgets/Widget02.js");
-/* harmony import */ var _Widget03__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./Widget03 */ "./resources/js/coreui/views/Widgets/Widget03.js");
-/* harmony import */ var _Widget04__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./Widget04 */ "./resources/js/coreui/views/Widgets/Widget04.js");
+/* harmony import */ var _Widget01__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./Widget01 */ "./resources/js/admin/views/Widgets/Widget01.js");
+/* harmony import */ var _Widget02__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./Widget02 */ "./resources/js/admin/views/Widgets/Widget02.js");
+/* harmony import */ var _Widget03__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./Widget03 */ "./resources/js/admin/views/Widgets/Widget03.js");
+/* harmony import */ var _Widget04__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./Widget04 */ "./resources/js/admin/views/Widgets/Widget04.js");
 /* harmony import */ var react_chartjs_2__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! react-chartjs-2 */ "./node_modules/react-chartjs-2/es/index.js");
 function _typeof(obj) { if (typeof Symbol === "function" && typeof Symbol.iterator === "symbol") { _typeof = function _typeof(obj) { return typeof obj; }; } else { _typeof = function _typeof(obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol && obj !== Symbol.prototype ? "symbol" : typeof obj; }; } return _typeof(obj); }
 

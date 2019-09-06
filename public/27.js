@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[27],{
 
-/***/ "./resources/js/coreui/views/Base/Switches/Switches.js":
-/*!*************************************************************!*\
-  !*** ./resources/js/coreui/views/Base/Switches/Switches.js ***!
-  \*************************************************************/
+/***/ "./resources/js/admin/views/Base/Switches/Switches.js":
+/*!************************************************************!*\
+  !*** ./resources/js/admin/views/Base/Switches/Switches.js ***!
+  \************************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

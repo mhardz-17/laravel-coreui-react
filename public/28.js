@@ -1,9 +1,9 @@
 (window["webpackJsonp"] = window["webpackJsonp"] || []).push([[28],{
 
-/***/ "./resources/js/coreui/views/Base/Tables/Tables.js":
-/*!*********************************************************!*\
-  !*** ./resources/js/coreui/views/Base/Tables/Tables.js ***!
-  \*********************************************************/
+/***/ "./resources/js/admin/views/Base/Tables/Tables.js":
+/*!********************************************************!*\
+  !*** ./resources/js/admin/views/Base/Tables/Tables.js ***!
+  \********************************************************/
 /*! exports provided: default */
 /***/ (function(module, __webpack_exports__, __webpack_require__) {
 

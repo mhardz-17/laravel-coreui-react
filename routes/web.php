@@ -19,3 +19,4 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/coreui-admin', 'HomeController@coreui')->name('coreui');
+Route::get('/admin', 'AdminController@index')->name('admin');
