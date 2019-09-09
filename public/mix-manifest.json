@@ -1,4 +1,6 @@
 {
     "/admin-assets/js/app.js": "/admin-assets/js/app.js",
-    "/admin-assets/css/style.css": "/admin-assets/css/style.css"
+    "/coreui/css/style.css": "/coreui/css/style.css",
+    "/admin-assets/css/style.css": "/admin-assets/css/style.css",
+    "/coreui/js/app.js": "/coreui/js/app.js"
 }

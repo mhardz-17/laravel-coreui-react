@@ -38,6 +38,7 @@ class DefaultHeader extends Component {
           <NavItem className="px-3">
             <NavLink to="#" className="nav-link">Settings</NavLink>
           </NavItem>
+            <li className="px-3 nav-item"><a className="nav-link" href="/coreui-admin">Core UI</a></li>
         </Nav>
         <Nav className="ml-auto" navbar>
           <NavItem className="d-md-down-none">
