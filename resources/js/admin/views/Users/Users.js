@@ -29,6 +29,15 @@ function UserRow(props) {
 
 class Users extends Component {
 
+    constructor(props) {
+        super(props);
+        this.state = {date: new Date()};
+    }
+
+    componentDidMount() {
+        axios.get('admin/api/users');
+    }
+
   render() {
 
     const userList = usersData.filter((user) => user.id < 10)

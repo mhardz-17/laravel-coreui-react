@@ -16,8 +16,7 @@ Route::middleware('auth:api')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::apiResources(['user' => 'UserController']);
-Route::apiResources(['trimeet' => 'TrimeetController']);
+Route::apiResources(['users' => 'UserController']);
 Route::get('profile', 'UserController@profile');
 Route::get('findUser', 'UserController@search');
 Route::put('profile', 'UserController@updateProfile');
