@@ -1,3 +1,5 @@
 **README.MD**
 
-**_LARAVEL + COREUI TEMPLATE + REACT _**
+**LARAVEL + COREUI TEMPLATE + REACT**
+
+**Laravel Admin Page using React and Core Ui Template**
