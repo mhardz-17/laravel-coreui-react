@@ -89,5 +89,16 @@
       To begin the development, run `npm start` or `yarn start`.
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
+
+    <form id="logout-form" action="{{ url('admin/logout') }}" method="POST" style="display: none;">
+      @csrf
+    </form>
+
+    @auth
+      <script>
+          window.user = @json(auth()->user())
+      </script>
+    @endauth
+
   </body>
 </html>
