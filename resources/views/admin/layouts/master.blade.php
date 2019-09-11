@@ -36,14 +36,14 @@
       {{--gtag('config', 'UA-118965717-6');--}}
 
       {{--</script>--}}
-      <script src="{{ mix('/admin-assets/js/app.js') }}" defer ></script>
+
 
     <!-- Fonts -->
     <link rel="dns-prefetch" href="//fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
     <!-- Styles -->
-    <link href="{{ mix('/admin-assets/css/style.css') }}" rel="stylesheet">
+    <link href="{{ mix('admin-assets/css/style.css') }}" rel="stylesheet">
   </head>
 
   <!-- BODY options, add following classes to body to change options
@@ -100,5 +100,6 @@
       </script>
     @endauth
 
+    <script src="{{ mix('admin-assets/js/app.js') }}" defer ></script>
   </body>
 </html>

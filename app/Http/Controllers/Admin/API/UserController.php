@@ -26,14 +26,29 @@ class UserController extends Controller
      *
      * @return \Illuminate\Http\Response
      */
-    public function index()
+    public function index(Request $request)
     {
-        return User::latest()->paginate(5);
+        $users = User::latest();
+        $searchValue = $request->get('filter_value');
+        if($searchValue) {
+            $users->where(function ($q) use ($searchValue) {
+                $q->where('name', 'LIKE', '%' . $searchValue . '%');
+                $q->orWhere('email', 'LIKE', '%' . $searchValue . '%');
+            });
+        }
+
+        $sortOrder = $request->get('sort_order') ? json_decode($request->get('sort_order'), true) : null;
+        if($sortOrder) {
+            $users->orderBy($sortOrder['column'], $sortOrder['order']);
+        }
+        $users = $users->paginate($request->get('page_size', 10));
 
         // $this->authorize('isAdmin');
 //        if (\Gate::allows('isAdmin') || \Gate::allows('isAuthor')) {
 //            return User::latest()->paginate(5);
 //        }
+
+        return $this->buildJson(['users' => $users]);
 
     }
 
@@ -138,11 +153,11 @@ class UserController extends Controller
         $this->validate($request,[
             'name' => 'required|string|max:191',
             'email' => 'required|string|email|max:191|unique:users,email,'.$user->id,
-            'password' => 'sometimes|min:6'
+//            'password' => 'sometimes|min:6'
         ]);
 
         $user->update($request->all());
-        return ['message' => 'Updated the user info'];
+        return $this->buildJson(['message' => 'Updated the user info', 'user' => $user]);
     }
 
     /**
