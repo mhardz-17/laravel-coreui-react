@@ -28,7 +28,7 @@ class UserController extends Controller
      */
     public function index(Request $request)
     {
-        $users = User::latest();
+        $users = User::query();
         $searchValue = $request->get('filter_value');
         if($searchValue) {
             $users->where(function ($q) use ($searchValue) {
@@ -40,6 +40,8 @@ class UserController extends Controller
         $sortOrder = $request->get('sort_order') ? json_decode($request->get('sort_order'), true) : null;
         if($sortOrder) {
             $users->orderBy($sortOrder['column'], $sortOrder['order']);
+        } else {
+            $users->orderBy('name', 'ASC');
         }
         $users = $users->paginate($request->get('page_size', 10));
 
@@ -70,9 +72,9 @@ class UserController extends Controller
         return User::create([
             'name' => $request['name'],
             'email' => $request['email'],
-            'type' => $request['type'],
-            'bio' => $request['bio'],
-            'photo' => 'profile.png',
+//            'type' => $request['type'],
+//            'bio' => $request['bio'],
+//            'photo' => 'profile.png',
             'password' => Hash::make($request['password']),
         ]);
 
