@@ -18,5 +18,13 @@
     
     d. ```npm install```
     
-    e. ```npm run dev```
+    e. ```npm run dev``` to compile asset or ```npm run hot``` for hot reload
+    
+3. Edit code inside resources/views/js/admin to edit admin code. 
+   
+   Use the coreui folder to check components from coreui admin template.
+   
+4. Have fun
+   
+
     
